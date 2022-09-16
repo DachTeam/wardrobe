@@ -6,7 +6,7 @@
 
 Este repositorio contiene todos los archivos que se utilizarán como fuentes, imágenes, etc.
 
-Recuerda que los archivos de este repositorio **son sólo para proyectos del [team]**.
+Recuerde que los archivos de este repositorio **son sólo para los proyectos del [team]**, no está permitido utilizarlos fuera de los proyectos autorizados.
 
 </div>
 
