@@ -9,7 +9,7 @@ jobs:
         repo: ["dachteam/dachrepo"]
     steps:
       - name: Push to repo
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@11ba7d3f32dc7cc919d1c43f1fec1c05260c26b5 # tag=v2
         with:
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
           repository: ${{ matrix.repo }}
